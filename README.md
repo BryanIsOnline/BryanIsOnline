@@ -1,7 +1,6 @@
-Hello there, my name is Bryan (@BryanIsOnline)
+Welome, my name is Bryan.
 
-I'm a PhD student at the University of Alberta specializing in mathematics. In particular, my field of study lies in the expansive area 
-of algebra and representation theory. The essential idea of my research is to understand somewhat complicated algebraic structures (in my 
-case, the ill-defined quantum groups) by reducing abstract algebra problems to linear algebra problems (this is the notation of a "representation").
+As a PhD student in mathematics at the University of Alberta 📖, my research lies in the expansive area of algebra and representation theory. The essential idea of my research is to understand somewhat complicated algebraic structures, e.g., quantum groups, by reducing abstract algebra problems to linear algebra problems, i.e., "representing" elements of these algebraic structures as linear maps on some vector space.
 
 I can be reached at 📧 bkettle@ualberta.ca
+Also, you can connect with me on LinkedIn at https://www.linkedin.com/in/b-ket/
