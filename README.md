@@ -4,4 +4,4 @@ As a PhD candidate in mathematics at the University of Alberta 📖, my research
 
 I can be reached at 📧 bkettle@ualberta.ca
 
-Also, you can connect with me on LinkedIn at https://www.linkedin.com/in/b-ket/
+Also, you can connect with me on [LinkedIn](https://www.linkedin.com/in/b-ket/)
