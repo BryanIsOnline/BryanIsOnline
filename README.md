@@ -8,4 +8,4 @@ Ways to connect with me:
 
 💻 [LinkedIn](https://www.linkedin.com/in/b-ket/)
 
-[Personal website](https://www.bkettle.ca)
+🏠 [Personal website](https://www.bkettle.ca)
