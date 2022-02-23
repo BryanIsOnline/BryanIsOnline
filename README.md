@@ -5,5 +5,7 @@ As a PhD candidate in mathematics at the University of Alberta 📖, my research
 Ways to connect with me:
 
 📧 bkettle@ualberta.ca
+
 💻 [LinkedIn](https://www.linkedin.com/in/b-ket/)
+
 [Personal website](https://www.bkettle.ca)
