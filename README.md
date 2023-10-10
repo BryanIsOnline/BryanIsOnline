@@ -1,6 +1,6 @@
 Welome to my GitHub page. My name is Bryan.
 
-I am a PhD candidate in mathematics at the University of Alberta studying Yangians. 
+I have a PhD in mathematics from the the University of Alberta.
 
 Ways to connect with me:
 
